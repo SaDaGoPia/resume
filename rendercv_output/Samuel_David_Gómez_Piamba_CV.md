@@ -7,7 +7,7 @@
 - GitHub: [sadago-dev](https://github.com/sadago-dev)
 
 
-# Summary
+# Perfil Profesional
 
 Estudiante de último semestre en Tecnología en Desarrollo de Software y becario de movilidad internacional en la #strong[Universidad de Ciencias Aplicadas de Tampere (TAMK), Finlandia]. Experiencia práctica en arquitectura de software, bases de datos y desarrollo Cloud.
 
@@ -15,7 +15,7 @@ Ejecución exitosa de proyectos de investigación I+D+i en automatización agrí
 
 Enfoque profesional en #strong[Desarrollo Full Stack], Arquitectura Cloud (AWS\/Firebase) y desarrollo móvil (Flutter). Competente en #strong[Python, JavaScript (React), C++] y administración de bases de datos SQL\/NoSQL.
 
-# Education
+# Formación Académica
 
 ## **Tampere University of Applied Sciences (TAMK)***Tampere, Finlandia*
 
@@ -41,7 +41,7 @@ Enfoque profesional en #strong[Desarrollo Full Stack], Arquitectura Cloud (AWS\/
 
 
 
-# Experience
+# Experiencia Laboral
 
 ## **Desarrollador de Software – Proyecto de Investigación**
 
@@ -83,7 +83,7 @@ Enfoque profesional en #strong[Desarrollo Full Stack], Arquitectura Cloud (AWS\/
 
 
 
-# Projects
+# Proyectos Destacados
 
 ## **Sistema de Riego Automatizado (IoT\/PWA)**
 
@@ -95,7 +95,7 @@ Enfoque profesional en #strong[Desarrollo Full Stack], Arquitectura Cloud (AWS\/
 
 
 
-# Technologies
+# Habilidades Técnicas
 
 - Stack Web: React, Next.js, Node.js, Django, Flask, HTML5, CSS3
 
@@ -105,7 +105,7 @@ Enfoque profesional en #strong[Desarrollo Full Stack], Arquitectura Cloud (AWS\/
 
 - Herramientas: Git, Linux Bash, Vercel, Render, MongoDB Compass
 
-# Certifications
+# Certificaciones
 
 ## **MongoDB Developer Path (GenAI, SQL to NoSQL, CRUD)**
 
@@ -119,7 +119,7 @@ Enfoque profesional en #strong[Desarrollo Full Stack], Arquitectura Cloud (AWS\/
 
 
 
-# Languages
+# Idiomas
 
 ## **Español**
 

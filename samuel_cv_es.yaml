@@ -11,14 +11,14 @@ cv:
       username: sadago-dev
 
   sections:
-    # 1. Perfil Profesional (Resumen de alto impacto)
-    summary:
+    # --- TÍTULO EN EL PDF: "Perfil Profesional" ---
+    perfil_profesional:
       - Estudiante de último semestre en Tecnología en Desarrollo de Software y becario de movilidad internacional en la **Universidad de Ciencias Aplicadas de Tampere (TAMK), Finlandia**. Experiencia práctica en arquitectura de software, bases de datos y desarrollo Cloud.
       - Ejecución exitosa de proyectos de investigación I+D+i en automatización agrícola, logrando el despliegue de sistemas de monitoreo IoT con impacto verificado.
       - Enfoque profesional en **Desarrollo Full Stack**, Arquitectura Cloud (AWS/Firebase) y desarrollo móvil (Flutter). Competente en **Python, JavaScript (React), C++** y administración de bases de datos SQL/NoSQL.
 
-    # 2. Educación (La corrección clave está aquí)
-    education:
+    # --- TÍTULO EN EL PDF: "Formación Académica" ---
+    formación_académica:
       - institution: Tampere University of Applied Sciences (TAMK)
         area: Software Engineering
         degree: Intercambio Académico Internacional
@@ -39,8 +39,8 @@ cv:
           - "**Promedio General:** Sobresaliente (Beca de Honor consecutiva)."
           - "**Cursos Destacados:** Cloud Computing (4.9), Frameworks de Desarrollo (5.0), Big Data (4.7), Apps Móviles (4.9), Estructuras de Datos (5.0)."
 
-    # 3. Experiencia (Técnica y Transferible)
-    experience:
+    # --- TÍTULO EN EL PDF: "Experiencia Laboral" ---
+    experiencia_laboral:
       - company: Corporación Universitaria Minuto de Dios
         position: Desarrollador de Software – Proyecto de Investigación
         start_date: 2023-02
@@ -67,16 +67,16 @@ cv:
         highlights:
           - "Liderazgo de grupos y mentoría personalizada bajo metodologías de disciplina y alto rendimiento."
 
-    # 4. Proyectos (Tu portafolio técnico)
-    projects:
+    # --- TÍTULO EN EL PDF: "Proyectos Destacados" ---
+    proyectos_destacados:
       - name: Sistema de Riego Automatizado (IoT/PWA)
         date: 2025
         highlights:
           - "Sistema completo de monitoreo agrícola con integración IoT (Wemos D1)."
           - "**Tech Stack:** Next.js, Firebase, PostgreSQL, C++."
 
-    # 5. Habilidades (Agrupadas para ATS)
-    technologies:
+    # --- TÍTULO EN EL PDF: "Habilidades Técnicas" ---
+    habilidades_técnicas:
       - label: Stack Web
         details: React, Next.js, Node.js, Django, Flask, HTML5, CSS3
       - label: Lenguajes
@@ -86,8 +86,8 @@ cv:
       - label: Herramientas
         details: Git, Linux Bash, Vercel, Render, MongoDB Compass
 
-    # 6. Certificaciones (Validación técnica)
-    certifications:
+    # --- TÍTULO EN EL PDF: "Certificaciones" ---
+    certificaciones:
       - name: MongoDB Developer Path (GenAI, SQL to NoSQL, CRUD)
         institution: MongoDB (Credly)
         date: 2025
@@ -95,13 +95,13 @@ cv:
         institution: SENA
         date: 2022
 
-    # 7. Idiomas (Con tus puntajes C1)
-    languages:
+    # --- TÍTULO EN EL PDF: "Idiomas" ---
+    idiomas:
       - name: Español
         level: Nativo
       - name: Inglés
         level: Avanzado C1 (Duolingo 130/160, EF SET 68/100)
 
-# CONFIGURACIÓN DE DISEÑO (ESTILO SB2NOV - LIMPIO Y ELEGANTE)
+# CONFIGURACIÓN DE DISEÑO
 design:
   theme: sb2nov
