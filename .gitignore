@@ -1,0 +1,10 @@
+# RenderCV build artifacts
+rendercv_output/*.typ
+rendercv_output/*.png
+
+# Logs
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
