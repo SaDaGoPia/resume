@@ -1,9 +1,8 @@
 cv:
   name: Samuel David Gómez Piamba
-  location: Tampere, Finlandia | Villavicencio, Colombia
+  location: Tampere, Finlandia (Desde Ene 2026) | Villavicencio, Colombia
   email: sgdotdev@gmail.com
   phone: "+57 314 639 8837"
-  # Enlaces a redes sociales
   social_networks:
     - network: LinkedIn
       username: Samuel Gómez
@@ -11,53 +10,82 @@ cv:
       username: sadago-dev
 
   sections:
-    # --- TÍTULO EN EL PDF: "Perfil Profesional" ---
+    # 1. PERFIL PROFESIONAL (Tal cual el Docx, párrafos i al v)
     perfil_profesional:
-      - Estudiante de último semestre en Tecnología en Desarrollo de Software y becario de movilidad internacional en la **Universidad de Ciencias Aplicadas de Tampere (TAMK), Finlandia**. Experiencia práctica en arquitectura de software, bases de datos y desarrollo Cloud.
-      - Ejecución exitosa de proyectos de investigación I+D+i en automatización agrícola, logrando el despliegue de sistemas de monitoreo IoT con impacto verificado.
-      - Enfoque profesional en **Desarrollo Full Stack**, Arquitectura Cloud (AWS/Firebase) y desarrollo móvil (Flutter). Competente en **Python, JavaScript (React), C++** y administración de bases de datos SQL/NoSQL.
+      - (i) Estudiante de último semestre en Tecnología en Desarrollo de Software en la Corporación Educativa Minuto de Dios y becario de movilidad internacional en la Universidad de Ciencias Aplicadas de Tampere (TAMK), Finlandia. Experiencia académica y práctica en arquitectura y desarrollo de Software, gestión de bases de datos y desarrollo de aplicaciones Cloud.
+      - (ii) Ejecución y entrega exitosa de proyectos de investigación I+D+i orientados a la automatización agrícola, logrando el diseño, despliegue y entrega funcional de sistemas para el monitoreo y control de riego con propósitos investigativos.
+      - (iii) Enfoque profesional en Desarrollo Full Stack moderno e integral, Arquitectura Cloud (AWS / Firebase), desarrollo móvil multiplataforma (Flutter), con aplicación de metodologías ágiles y liderazgo técnico en equipos colaborativos.
+      - (iv) Sólidas competencias en desarrollo Web Full Stack, orquestando interfaces dinámicas con React y arquitecturas backend escalables basadas en Python (Django/Flask). Conocimiento de lenguajes complementarios como Java y C++, junto a la administración de bases de datos SQL (PostgreSQL, MySQL) y NoSQL (MongoDB). Control de versiones con Git y despliegue en entornos Linux Bash.
+      - (v) Fortalezas en pensamiento analítico, resolución creativa de problemas y enfoque continuo en la mejora de soluciones tecnológicas.
 
-    # --- TÍTULO EN EL PDF: "Formación Académica" ---
+    # 2. FORMACIÓN ACADÉMICA (Incluyendo Bachiller como pediste)
     formación_académica:
       - institution: Tampere University of Applied Sciences (TAMK)
-        area: Software Engineering
-        degree: Intercambio Académico Internacional
+        area: Intercambio Académico Internacional (Software Engineering)
+        degree: Becario "Movemos tu Mundo"
         start_date: 2026-01
         end_date: 2026-05
         location: Tampere, Finlandia
         highlights:
-          - "**Logro:** Becario del programa 'Movemos tu Mundo' por excelencia académica y proyección internacional."
-          - "**Enfoque:** Ingeniería de Software, Cloud Computing y Entornos Internacionales."
+          - "Becario del programa 'Movemos tu Mundo' por excelencia académica y proyección internacional."
 
       - institution: Corporación Universitaria Minuto de Dios
         area: Tecnología en Desarrollo de Software
-        degree: Pregrado Tecnológico
+        degree: En curso (Último semestre)
         start_date: 2023-02
         end_date: present
         location: Villavicencio, Colombia
         highlights:
-          - "**Promedio General:** Sobresaliente (Beca de Honor consecutiva)."
-          - "**Cursos Destacados:** Cloud Computing (4.9), Frameworks de Desarrollo (5.0), Big Data (4.7), Apps Móviles (4.9), Estructuras de Datos (5.0)."
+          - "**Cursos relevantes:** Cloud Computing, Frameworks de Desarrollo, Big Data, Aplicaciones Móviles, Estructuras de Datos, Metodologías Ágiles, Bases de Datos."
+          - "Promedio General: Sobresaliente (Beca de Honor consecutiva)."
 
-    # --- TÍTULO EN EL PDF: "Experiencia Laboral" ---
+      - institution: Institución José María Córdoba
+        area: Bachiller Académico
+        degree: Graduado
+        date: 2021
+        location: Guamal, Meta
+
+    # 3. TRABAJOS Y LOGROS ACADÉMICOS (Separamos el proyecto y los premios para que RenderCV lo muestre bien)
+    trabajos_y_logros_académicos:
+      - company: Proyecto de Investigación
+        position: Ejecución y entrega exitosa
+        date: 2025
+        highlights:
+          - "Aplicación para el monitoreo y control remoto del riego en plantaciones controladas, desarrollada en el marco de una investigación científica liderada por una doctora en Agronomía."
+          - "El sistema funcional logra la optimización del sistema de riego y una mayor facilidad operativa para la investigación del comportamiento de las plantaciones."
+          - "Este desarrollo tecnológico sustenta una publicación académica en proceso."
+
+    reconocimientos_académicos:
+      - label: Beca de Movilidad Internacional "Movemos tu Mundo"
+        details: "2025 - Otorgada por la Oficina de Asuntos Globales de UNIMINUTO para financiar el intercambio en Finlandia, en reconocimiento al alto desempeño."
+      - label: Beca de Honor
+        details: "2023 - 2024 - Otorgada por obtener el mejor promedio académico de la carrera en ambos periodos (2023-2 y 2024-1)."
+      - label: Premio a la Excelencia Académica
+        details: "2024 - Reconocimiento institucional por alcanzar el promedio más alto de todo el programa académico durante el año."
+
+    # 4. EXPERIENCIA LABORAL (Sección técnica del proyecto)
     experiencia_laboral:
-      - company: Corporación Universitaria Minuto de Dios
+      - company: Corporación Educativa Minuto de Dios – Facultad de Ingeniería
         position: Desarrollador de Software – Proyecto de Investigación
-        start_date: 2023-02
-        end_date: 2025-10
+        start_date: 2025-05
+        end_date: 2025-11
         location: Villavicencio, Colombia
         highlights:
-          - "Ejecución y entrega exitosa de un sistema integral (Hardware + Software) para la automatización y control remoto de riego en cultivos."
-          - "Desarrollo de una **Progressive Web App (PWA)** offline-first utilizando **Python, C++, React, Firebase y PostgreSQL**."
-          - "Optimización verificable de recursos hídricos; el desarrollo sustenta una publicación científica en proceso."
+          - "Ejecución y entrega exitosa de un sistema integral (Hardware + Software) para la automatización y control remoto de riego en cultivos agrícolas."
+          - "Desarrollo de una aplicación web progresiva (PWA) con capacidad offline-first utilizando Python, C++, JavaScript (React / Next.js), Firebase, PostgreSQL."
+          - "Proyecto realizado en entorno académico-científico, con enfoque en innovación agrícola y eficiencia de recursos."
+          - "Aplicación de metodologías ágiles (Kanban) para la gestión del ciclo de desarrollo."
 
+    # 5. EXPERIENCIA ADICIONAL (Recuperamos DUG Store y Coach)
+    experiencia_adicional:
       - company: DUG Store
-        position: Asesor Comercial de Tecnología
+        position: Asesor Comercial y de Tecnología
         start_date: 2024-11
         end_date: 2025-02
         location: Villavicencio, Colombia
         highlights:
-          - "Estrategias de venta consultiva para tecnología, desarrollando comunicación verbal y negociación efectiva."
+          - "Aplicación de estrategias de venta consultiva y persuasión para productos tecnológicos, desarrollando habilidades destacadas de comunicación verbal y negociación."
+          - "Gestión integral de atención al cliente y resolución ágil de conflictos, garantizando la satisfacción del usuario mediante la escucha activa y la empatía."
 
       - company: Club de Baloncesto Panteras
         position: Coach de Habilidades Técnicas
@@ -65,43 +93,43 @@ cv:
         end_date: 2025-12
         location: Villavicencio, Colombia
         highlights:
-          - "Liderazgo de grupos y mentoría personalizada bajo metodologías de disciplina y alto rendimiento."
+          - "Liderazgo de grupos y mentoría personalizada, aplicando comunicación asertiva para la transmisión efectiva de instrucciones técnicas y tácticas."
+          - "Diseño de planes de desarrollo enfocados en la inteligencia emocional y la disciplina, potenciando el rendimiento individual y el trabajo colaborativo bajo presión."
 
-    # --- TÍTULO EN EL PDF: "Proyectos Destacados" ---
-    proyectos_destacados:
-      - name: Sistema de Riego Automatizado (IoT/PWA)
-        date: 2025
-        highlights:
-          - "Sistema completo de monitoreo agrícola con integración IoT (Wemos D1)."
-          - "**Tech Stack:** Next.js, Firebase, PostgreSQL, C++."
-
-    # --- TÍTULO EN EL PDF: "Habilidades Técnicas" ---
-    habilidades_técnicas:
-      - label: Stack Web
-        details: React, Next.js, Node.js, Django, Flask, HTML5, CSS3
-      - label: Lenguajes
-        details: Python, JavaScript, Java, C++, Dart, SQL
-      - label: Cloud & Móvil
-        details: AWS (Básico), Firebase, Flutter, Docker
-      - label: Herramientas
-        details: Git, Linux Bash, Vercel, Render, MongoDB Compass
-
-    # --- TÍTULO EN EL PDF: "Certificaciones" ---
-    certificaciones:
-      - name: MongoDB Developer Path (GenAI, SQL to NoSQL, CRUD)
+    # 6. CERTIFICACIONES Y FORMACIÓN CONTINUA (Todos los cursos del docx)
+    certificaciones_y_formación_continua:
+      - name: From Relational Model (SQL) to MongoDB's Document Model
         institution: MongoDB (Credly)
         date: 2025
-      - name: Manejo de Software para Diseño Electrónico
+      - name: CRUD Operations in MongoDB
+        institution: MongoDB (Credly)
+        date: 2025
+      - name: Building GenAI Applications with MongoDB
+        institution: MongoDB (Credly)
+        date: 2025
+      - name: Manejo De Software Para Diseño De Circuitos Electrónicos
         institution: SENA
         date: 2022
+      - name: Electrónica Básica
+        institution: SENA
+        date: 2022
+      - name: Seguridad en Riesgo Eléctrico
+        institution: SENA
+        date: 2022
+      - name: Curso de Liderazgo
+        institution: AulaFacil (Online)
+        date: 2020
 
-    # --- TÍTULO EN EL PDF: "Idiomas" ---
-    idiomas:
-      - name: Español
-        level: Nativo
-      - name: Inglés
-        level: Avanzado C1 (Duolingo 130/160, EF SET 68/100)
+    # 7. OTROS (Idiomas, Tecnologías completas y Software)
+    otros_datos_de_interés:
+      - label: Idiomas
+        details: Español (Nativo 100%), Inglés (Avanzado C1 - Duolingo 130/160, EF SET 68/100)
+      - label: Tecnologías de Desarrollo
+        details: Python (Django, Flask), JavaScript (React, Next.js, Node.js), Java, C++, HTML5, CSS, SQL (PostgreSQL, MySQL), NoSQL, Docker, AWS, Firebase, Flutter, Dart.
+      - label: Herramientas
+        details: Visual Studio Code, IntelliJ, Arduino IDE, Git, Render, Vercel, Docker, MongoDB Compass, XAMPP, Linux Bash.
+      - label: Software Complementario
+        details: Photoshop, Filmora, FL Studio.
 
-# CONFIGURACIÓN DE DISEÑO
 design:
   theme: sb2nov
