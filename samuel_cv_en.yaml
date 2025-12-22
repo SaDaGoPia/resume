@@ -1,0 +1,135 @@
+cv:
+  name: Samuel David Gómez Piamba
+  location: Tampere, Finland (Starting Jan 2026) | Villavicencio, Colombia
+  email: sgdotdev@gmail.com
+  phone: "+57 314 639 8837"
+  social_networks:
+    - network: LinkedIn
+      username: Samuel Gómez
+    - network: GitHub
+      username: sadago-dev
+
+  sections:
+    # 1. PROFILE 
+    profile:
+      - (i) Final-year student in Software Development Technology at Corporación Universitaria Minuto de Dios and International Exchange Scholar at **Tampere University of Applied Sciences (TAMK), Finland**. Academic and practical experience in software architecture, database management, and Cloud application development.
+      - (ii) Successful execution and delivery of R&D&I projects focused on agricultural automation, achieving the design, deployment, and functional delivery of IoT monitoring and irrigation control systems for research purposes.
+      - (iii) Professional focus on Modern Full Stack Development, Cloud Architecture (AWS / Firebase), and Cross-platform Mobile Development (Flutter), applying Agile methodologies and technical leadership in collaborative teams.
+      - (iv) Strong competencies in Full Stack Web Development, orchestrating dynamic interfaces with **React** and scalable backend architectures based on **Python (Django/Flask)**. Proficient in complementary languages such as Java and C++, along with SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) database administration. Version control with Git and deployment in Linux Bash environments.
+      - (v) Strengths in analytical thinking, creative problem-solving, and a continuous focus on technological excellence and improvement.
+
+    # 2. EDUCATION
+    education:
+      - institution: Tampere University of Applied Sciences (TAMK)
+        area: International Academic Exchange (Software Engineering)
+        degree: "Movemos tu Mundo Scholarship Recipient"
+        start_date: 2026-01
+        end_date: 2026-05
+        location: Tampere, Finland
+        highlights:
+          - "Awarded the Movemos tu Mundo Scholarship for academic excellence and international projection."
+
+      - institution: Corporación Universitaria Minuto de Dios
+        area: Software Development Technology
+        degree: Undergraduate Degree (Final Semester)
+        start_date: 2023-02
+        end_date: present
+        location: Villavicencio, Colombia
+        highlights:
+          - "**Relevant Coursework:** Cloud Computing, Development Frameworks, Big Data, Mobile Applications, Data Structures, Agile Methodologies, Databases."
+          - "**GPA:** Outstanding (Consecutive Honor Scholarship recipient)."
+
+      - institution: Institución José María Córdoba
+        area: High School Diploma
+        degree: Graduated
+        date: 2021
+        location: Guamal, Meta, Colombia
+
+    # 3. ACADEMIC ACHIEVEMENTS & AWARDS 
+    academic_projects_&_achievements:
+      - company: Research Project
+        position: Successful Execution & Delivery
+        date: 2025
+        highlights:
+          - "Development of an application for remote monitoring and control of irrigation in controlled plantations, led by a Ph.D. in Agronomy."
+          - "The functional system achieved optimization of the irrigation process and operational efficiency for crop behavior research."
+          - "This technological development supports an upcoming academic publication."
+
+    awards_&_recognitions:
+      - label: International Mobility Scholarship "Movemos tu Mundo"
+        details: "2025 - Awarded by the Global Affairs Office of UNIMINUTO to finance the exchange in Finland, in recognition of high performance."
+      - label: Honor Scholarship
+        details: "2023 - 2024 - Awarded for obtaining the highest GPA in the program for two consecutive periods (2023-2 and 2024-1)."
+      - label: Academic Excellence Award
+        details: "2024 - Institutional recognition for achieving the highest average of the entire academic program during the year."
+
+    # 4. EXPERIENCE 
+    experience:
+      - company: Corporación Educativa Minuto de Dios – School of Engineering
+        position: Software Developer – Research Project
+        start_date: 2025-05
+        end_date: 2025-11
+        location: Villavicencio, Colombia
+        highlights:
+          - "Successful execution and delivery of an integral system (Hardware + Software) for the automation and remote control of agricultural irrigation."
+          - "Development of an offline-first **Progressive Web App (PWA)** using **Python, C++, JavaScript (React / Next.js), Firebase, and PostgreSQL**."
+          - "Project conducted in an academic-scientific environment, focusing on agricultural innovation and resource efficiency."
+          - "Application of Agile methodologies (Kanban) for development lifecycle management."
+
+    # 5. ADDITIONAL EXPERIENCE 
+    additional_experience:
+      - company: DUG Store
+        position: Tech & Sales Advisor
+        start_date: 2024-11
+        end_date: 2025-02
+        location: Villavicencio, Colombia
+        highlights:
+          - "Applied consultative sales strategies and persuasion for technological products, developing outstanding verbal communication and negotiation skills."
+          - "Integral customer service management and agile conflict resolution, ensuring user satisfaction through active listening and empathy."
+
+      - company: Panteras Basketball Club
+        position: Technical Skills Coach
+        start_date: 2024-07
+        end_date: 2025-12
+        location: Villavicencio, Colombia
+        highlights:
+          - "Group leadership and personalized mentorship, applying assertive communication for the effective transmission of technical and tactical instructions."
+          - "Designed development plans focused on emotional intelligence and discipline, boosting individual performance and collaborative work under pressure."
+
+    # 6. CERTIFICATIONS 
+    certifications_&_continuous_learning:
+      - name: From Relational Model (SQL) to MongoDB’s Document Model
+        institution: MongoDB (Credly)
+        date: 2025
+      - name: CRUD Operations in MongoDB
+        institution: MongoDB (Credly)
+        date: 2025
+      - name: Building GenAI Applications with MongoDB
+        institution: MongoDB (Credly)
+        date: 2025
+      - name: Software Handling for Electronic Circuit Design
+        institution: SENA
+        date: 2022
+      - name: Basic Electronics
+        institution: SENA
+        date: 2022
+      - name: Electrical Risk Safety
+        institution: SENA
+        date: 2022
+      - name: Leadership Course
+        institution: AulaFacil (Online)
+        date: 2020
+
+    # 7. OTHER INFO
+    other_information:
+      - label: Languages
+        details: Spanish (Native 100%), English (Advanced C1 - Duolingo 130/160, EF SET 68/100)
+      - label: Development Technologies
+        details: Python (Django, Flask), JavaScript (React, Next.js, Node.js), Java, C++, HTML5, CSS, SQL (PostgreSQL, MySQL), NoSQL, Docker, AWS, Firebase, Flutter, Dart.
+      - label: Tools
+        details: Visual Studio Code, IntelliJ, Arduino IDE, Git, Render, Vercel, Docker, MongoDB Compass, XAMPP, Linux Bash.
+      - label: Complementary Software
+        details: Photoshop, Filmora, FL Studio.
+
+design:
+  theme: sb2nov
