@@ -1,33 +1,48 @@
-# CV de Samuel David Gómez Piamba
+# Samuel David Gómez Piamba | Resume
 
-Este repositorio contiene la versión en español del CV en formato YAML para RenderCV y los artefactos generados (PDF, HTML, Markdown). Más adelante añadiremos la versión en inglés en un archivo separado (por ejemplo, `samuel_cv_en.yaml`).
+## 👨‍💻 Sobre mí
+Estudiante de último semestre en Tecnología en Desarrollo de Software y becario de movilidad internacional en **Tampere University of Applied Sciences (TAMK), Finlandia**. Desarrollador Full Stack con experiencia en proyectos de investigación I+D+i enfocados en automatización agrícola e IoT. Apasionado por la arquitectura Cloud, desarrollo móvil y la mejora continua de soluciones tecnológicas.
 
-## Cómo generar el CV (español)
+- 📧 sgdotdev@gmail.com
+- 📱 +57 314 639 8837
+- 🌍 Finlandia (Ene 2026) | Colombia
+- 💼 [LinkedIn](https://www.linkedin.com/in/samuel-gomez-piamba)
+- 💻 [GitHub](https://github.com/SaDaGoPia)
 
-Requisitos:
-- Tener instalado RenderCV (`pip install rendercv`).
+## 📄 Este Proyecto
+Este repositorio representa mi CV como un proyecto técnico versionado, aplicando las mismas prácticas de desarrollo que uso en mis proyectos de software:
 
-Comandos (cmd.exe):
+- **Infraestructura como código**: CV definido en YAML estructurado
+- **Automatización**: Generación programática de múltiples formatos (PDF, HTML, Markdown)
+- **Versionamiento Git**: Trazabilidad completa de cambios y evolución profesional
+- **CI/CD conceptual**: Pipeline reproducible para actualizar y deployar el CV
+- **Multilenguaje**: Versiones en español e inglés mantenidas independientemente
 
-```bat
-cd "C:\\Users\\USUARIO\\Documents\\PERSONAL\\CURRICULUM VITAE\\GIT CV"
-rendercv render samuel_cv_es.yaml
+### 🛠️ Stack Tecnológico
+- **RenderCV**: Motor de generación de CV basado en YAML
+- **Git & GitHub**: Control de versiones y hosting
+- **YAML**: Formato de datos estructurado y legible
+- **Typst/LaTeX**: Sistema de composición tipográfica de alta calidad
+
+### 📂 Estructura
+```
+.
+├── samuel_cv_es.yaml           # Versión en español
+├── samuel_cv_en.yaml           # Versión en inglés
+├── rendercv_output/
+│   ├── es/                     # Outputs en español (PDF, HTML, MD)
+│   └── en/                     # Outputs en inglés (PDF, HTML, MD)
+└── README.md                   # Este archivo
 ```
 
-Los resultados aparecerán en `rendercv_output/`:
-- `Samuel_David_Gómez_Piamba_CV.pdf`
-- `Samuel_David_Gómez_Piamba_CV.html`
-- `Samuel_David_Gómez_Piamba_CV.md`
-- PNGs y otros archivos de apoyo.
+### 🎯 ¿Por qué este enfoque?
+Este proyecto demuestra competencias técnicas aplicadas a un caso real:
+- Automatización de workflows repetitivos
+- Documentación como código
+- Separación de contenido y presentación
+- Gestión de configuraciones multiambiente (multilenguaje)
+- Best practices de versionamiento
 
-## Actualizar el CV
-1. Edita `samuel_cv_es.yaml`.
-2. Vuelve a ejecutar el comando de renderizado.
-3. Haz commit y push de los cambios.
+---
 
-## Sobre múltiples idiomas
-- Mantén cada idioma en su propio archivo (`samuel_cv_es.yaml`, `samuel_cv_en.yaml`).
-- Usa el mismo `rendercv_output/` o subcarpetas si prefieres separar artefactos (`rendercv_output/es`, `rendercv_output/en`).
-
-## Licencia
-Uso personal.
+**Última actualización**: Diciembre 2025
