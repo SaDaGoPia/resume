@@ -1,48 +1,49 @@
 # Samuel David Gómez Piamba | Resume
 
-## 👨‍💻 Sobre mí
-Estudiante de último semestre en Tecnología en Desarrollo de Software y becario de movilidad internacional en **Tampere University of Applied Sciences (TAMK), Finlandia**. Desarrollador Full Stack con experiencia en proyectos de investigación I+D+i enfocados en automatización agrícola e IoT. Apasionado por la arquitectura Cloud, desarrollo móvil y la mejora continua de soluciones tecnológicas.
+## 👨‍💻 About Me
+Final-year Software Development Technology student and International Exchange Scholar at **Tampere University of Applied Sciences (TAMK), Finland**. Full Stack Developer with experience in R&D&I projects focused on agricultural automation and IoT. Passionate about Cloud architecture, mobile development, and continuous improvement of technological solutions.
 
 - 📧 sgdotdev@gmail.com
 - 📱 +57 314 639 8837
-- 🌍 Finlandia (Ene 2026) | Colombia
+- 🌍 Finland (Starting Jan 2026) | Colombia
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-gomez-piamba)
 - 💻 [GitHub](https://github.com/SaDaGoPia)
 
-## 📄 Este Proyecto
-Este repositorio representa mi CV como un proyecto técnico versionado, aplicando las mismas prácticas de desarrollo que uso en mis proyectos de software:
+## 📄 About This Project
+This repository represents my resume as a versioned technical project, applying the same development practices I use in my software projects:
 
-- **Infraestructura como código**: CV definido en YAML estructurado
-- **Automatización**: Generación programática de múltiples formatos (PDF, HTML, Markdown)
-- **Versionamiento Git**: Trazabilidad completa de cambios y evolución profesional
-- **CI/CD conceptual**: Pipeline reproducible para actualizar y deployar el CV
-- **Multilenguaje**: Versiones en español e inglés mantenidas independientemente
+- **Infrastructure as Code**: Resume defined in structured YAML
+- **Automation**: Programmatic generation of multiple formats (PDF, HTML, Markdown)
+- **Git Version Control**: Complete traceability of changes and professional evolution
+- **Conceptual CI/CD**: Reproducible pipeline to update and deploy the resume
+- **Multilingual**: Spanish and English versions maintained independently
 
-### 🛠️ Stack Tecnológico
-- **RenderCV**: Motor de generación de CV basado en YAML
-- **Git & GitHub**: Control de versiones y hosting
-- **YAML**: Formato de datos estructurado y legible
-- **Typst/LaTeX**: Sistema de composición tipográfica de alta calidad
+### 🛠️ Tech Stack
+- **RenderCV**: YAML-based resume generation engine
+- **Git & GitHub**: Version control and hosting
+- **YAML**: Structured and human-readable data format
+- **Typst/LaTeX**: High-quality typesetting system
 
-### 📂 Estructura
+### 📂 Structure
 ```
 .
-├── samuel_cv_es.yaml           # Versión en español
-├── samuel_cv_en.yaml           # Versión en inglés
-├── rendercv_output/
-│   ├── es/                     # Outputs en español (PDF, HTML, MD)
-│   └── en/                     # Outputs en inglés (PDF, HTML, MD)
-└── README.md                   # Este archivo
+├── es/
+│   ├── samuel_cv_es.yaml              # Spanish source
+│   └── rendercv_output/               # Spanish outputs (PDF, HTML, MD)
+├── en/
+│   ├── samuel_cv_en.yaml              # English source
+│   └── rendercv_output/               # English outputs (PDF, HTML, MD)
+└── README.md                           # This file
 ```
 
-### 🎯 ¿Por qué este enfoque?
-Este proyecto demuestra competencias técnicas aplicadas a un caso real:
-- Automatización de workflows repetitivos
-- Documentación como código
-- Separación de contenido y presentación
-- Gestión de configuraciones multiambiente (multilenguaje)
-- Best practices de versionamiento
+### 🎯 Why This Approach?
+This project demonstrates technical competencies applied to a real-world use case:
+- Automation of repetitive workflows
+- Documentation as code
+- Separation of content and presentation
+- Multi-environment configuration management (multilingual)
+- Version control best practices
 
 ---
 
-**Última actualización**: Diciembre 2025
+**Last updated**: December 2025
