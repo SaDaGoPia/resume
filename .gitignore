@@ -2,9 +2,8 @@
 rendercv_output/*.typ
 rendercv_output/*.png
 
-# Logs
-*.log
+# Local / Alternative versions (not published)
+alt-versions/
 
-# Windows
 Thumbs.db
 Desktop.ini
