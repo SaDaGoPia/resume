@@ -2,102 +2,55 @@
 
 - Phone: +57 314 6398837
 - Email: [sgdotdev@gmail.com](mailto:sgdotdev@gmail.com)
-- Location: Tampere, Finlandia (Desde Ene 2026) | Villavicencio, Colombia
-- LinkedIn: [Samuel Gómez](https://linkedin.com/in/Samuel Gómez)
-- GitHub: [sadago-dev](https://github.com/sadago-dev)
+- Location: Fusagasugá, Colombia
+- LinkedIn: [samuel-gomez-piamba](https://linkedin.com/in/samuel-gomez-piamba)
+- GitHub: [SaDaGoPia](https://github.com/SaDaGoPia)
 
 
-# Perfil Profesional
+# Resumen
+Desarrollador Full Stack bilingüe con experiencia en arquitecturas cloud (AWS), desarrollo web moderno e integraciones IoT. Con trayectoria comprobada en el diseño de sistemas escalables con React, Node.js y Python, complementada con experiencia práctica en entornos Linux, scripting Bash y contenerización. Enfocado en crear soluciones eficientes y creativas, automatizar despliegues y aplicar metodologías ágiles.
 
-(i) Estudiante de último semestre en Tecnología en Desarrollo de Software en la Corporación Educativa Minuto de Dios y becario de movilidad internacional en la Universidad de Ciencias Aplicadas de Tampere (TAMK), Finlandia. Experiencia académica y práctica en arquitectura y desarrollo de Software, gestión de bases de datos y desarrollo de aplicaciones Cloud.
+# Tecnologías Y Herramientas
+**Tecnologías de desarrollo:** Python (Django, Flask), JavaScript (React, Next.js, Node.js), Java, C++, Dart (Flutter)
 
-(ii) Ejecución y entrega exitosa de proyectos de investigación I+D+i orientados a la automatización agrícola, logrando el diseño, despliegue y entrega funcional de sistemas para el monitoreo y control de riego con propósitos investigativos.
+**Infraestructura y nube:** AWS, Firebase, Docker, OpenStack, Linux (scripting Bash), reverse proxies
 
-(iii) Enfoque profesional en Desarrollo Full Stack moderno e integral, Arquitectura Cloud (AWS \/ Firebase), desarrollo móvil multiplataforma (Flutter), con aplicación de metodologías ágiles y liderazgo técnico en equipos colaborativos.
+**Bases de datos y herramientas:** PostgreSQL, MySQL, MongoDB, Git, Render, Vercel, Visual Studio Code
 
-(iv) Sólidas competencias en desarrollo Web Full Stack, orquestando interfaces dinámicas con React y arquitecturas backend escalables basadas en Python (Django\/Flask). Conocimiento de lenguajes complementarios como Java y C++, junto a la administración de bases de datos SQL (PostgreSQL, MySQL) y NoSQL (MongoDB). Control de versiones con Git y despliegue en entornos Linux Bash.
+**Idiomas:** Español (nativo), Inglés (avanzado C1 - Duolingo 130/160, EF SET 68/100)
 
-(v) Fortalezas en pensamiento analítico, resolución creativa de problemas y enfoque continuo en la mejora de soluciones tecnológicas.
-
-# Formación Académica
-
-## **Tampere University of Applied Sciences (TAMK)***Tampere, Finlandia*
-
-*Jan 2026 – May 2026*
-
-*Becario \"Movemos tu Mundo\"* *in* *Intercambio Académico Internacional (Software Engineering)*
-
-- Becario del programa 'Movemos tu Mundo' por excelencia académica y proyección internacional.
-
-
-
-## **Corporación Universitaria Minuto de Dios***Villavicencio, Colombia*
-
-*Feb 2023 – present*
-
-*En curso (Último semestre)* *in* *Tecnología en Desarrollo de Software*
-
-- #strong[Cursos relevantes:] Cloud Computing, Frameworks de Desarrollo, Big Data, Aplicaciones Móviles, Estructuras de Datos, Metodologías Ágiles, Bases de Datos.
-
-- Promedio General: Sobresaliente (Beca de Honor consecutiva).
-
-
-
-## **Institución José María Córdoba***Guamal, Meta*
-
-*Jan 2021*
-
-*Graduado* *in* *Bachiller Académico*
-
-
-
-# Trabajos Y Logros Académicos
-
-## **Ejecución y entrega exitosa**
-
-*Jan 2025*
-
-*Proyecto de Investigación*
-
-- Aplicación para el monitoreo y control remoto del riego en plantaciones controladas, desarrollada en el marco de una investigación científica liderada por una doctora en Agronomía.
-
-- El sistema funcional logra la optimización del sistema de riego y una mayor facilidad operativa para la investigación del comportamiento de las plantaciones.
-
-- Este desarrollo tecnológico sustenta una publicación académica en proceso.
-
-
-
-# Reconocimientos Académicos
-
-- Beca de Movilidad Internacional \"Movemos tu Mundo\": 2025 - Otorgada por la Oficina de Asuntos Globales de UNIMINUTO para financiar el intercambio en Finlandia, en reconocimiento al alto desempeño.
-
-- Beca de Honor: 2023 - 2024 - Otorgada por obtener el mejor promedio académico de la carrera en ambos periodos (2023-2 y 2024-1).
-
-- Premio a la Excelencia Académica: 2024 - Reconocimiento institucional por alcanzar el promedio más alto de todo el programa académico durante el año.
-
-# Experiencia Laboral
-
-## **Desarrollador de Software – Proyecto de Investigación**
+# Experiencia
+## **Desarrollador de Software – Proyecto I+D (UNIMINUTO Riego PWA)**
 
 *Villavicencio, Colombia*
 
-*May 2025 – Nov 2025*
+*May 2025 – May 2026*
 
-*Corporación Educativa Minuto de Dios – Facultad de Ingeniería*
+*Corporación Universitaria Minuto de Dios – Universidad*
 
-- Ejecución y entrega exitosa de un sistema integral (Hardware + Software) para la automatización y control remoto de riego en cultivos agrícolas.
+- Diseñé y entregué 'UNIMINUTO Riego PWA', una Progressive Web App offline-first desarrollada con React, Next.js, Python y PostgreSQL para sistemas IoT de riego automatizado.
 
-- Desarrollo de una aplicación web progresiva (PWA) con capacidad offline-first utilizando Python, C++, JavaScript (React \/ Next.js), Firebase, PostgreSQL.
+- Optimicé la eficiencia de recursos agrícolas mediante monitoreo remoto en tiempo real, estableciendo un sistema funcional lo suficientemente robusto para respaldar una futura publicación académica.
 
-- Proyecto realizado en entorno académico-científico, con enfoque en innovación agrícola y eficiencia de recursos.
+- Implementé metodologías ágiles (Kanban) para la gestión del ciclo de vida, integrando sin fricción componentes de hardware complejos con software basado en la nube.
 
-- Aplicación de metodologías ágiles (Kanban) para la gestión del ciclo de desarrollo.
+
+
+# Proyectos
+## **Infraestructura Cloud y Despliegue de Servidores**
+
+*May 2026*
+
+- Configuración y despliegue de entornos de servidor escalables usando Docker y OpenStack.
+
+- Implementación de un reverse proxy y compartición de archivos NFS, optimizando el tráfico de red, mejorando la seguridad del sistema y garantizando la accesibilidad de los datos.
+
+- Desarrollo e integración de una aplicación 'Tip of the Day' (TotD) para demostrar despliegues contenerizados sin interrupciones en entornos similares a producción.
 
 
 
 # Experiencia Adicional
-
-## **Asesor Comercial y de Tecnología**
+## **Asesor Técnico y Comercial**
 
 *Villavicencio, Colombia*
 
@@ -105,9 +58,7 @@
 
 *DUG Store*
 
-- Aplicación de estrategias de venta consultiva y persuasión para productos tecnológicos, desarrollando habilidades destacadas de comunicación verbal y negociación.
-
-- Gestión integral de atención al cliente y resolución ágil de conflictos, garantizando la satisfacción del usuario mediante la escucha activa y la empatía.
+- Apliqué estrategias de venta consultiva y resolví conflictos con agilidad, garantizando una alta satisfacción del cliente.
 
 
 
@@ -115,66 +66,48 @@
 
 *Villavicencio, Colombia*
 
-*July 2024 – Dec 2025*
+*Jul 2024 – Dic 2025*
 
-*Club de Baloncesto Panteras*
+*Panteras Basketball Club*
 
-- Liderazgo de grupos y mentoría personalizada, aplicando comunicación asertiva para la transmisión efectiva de instrucciones técnicas y tácticas.
-
-- Diseño de planes de desarrollo enfocados en la inteligencia emocional y la disciplina, potenciando el rendimiento individual y el trabajo colaborativo bajo presión.
+- Lideré equipos y mentoricé personas usando comunicación asertiva, mejorando el desempeño grupal y la disciplina bajo presión.
 
 
 
-# Certificaciones Y Formación Continua
-
-## **From Relational Model (SQL) to MongoDB's Document Model**
-
-*Jan 2025*
+# Educación
+## **Tampere University of Applied Sciences (TAMK)**
+*Tampere, Finlandia*
 
 
+*Ene 2026 – Jun 2026*
 
-## **CRUD Operations in MongoDB**
+*Becario de la Beca Movemos tu Mundo* *in* *Intercambio Académico Internacional (Ingeniería de Software)*
 
-*Jan 2025*
-
-
-
-## **Building GenAI Applications with MongoDB**
-
-*Jan 2025*
+- Becario de la Beca Movemos tu Mundo por excelencia académica y proyección internacional.
 
 
 
-## **Manejo De Software Para Diseño De Circuitos Electrónicos**
-
-*Jan 2022*
-
+## **Corporación Universitaria Minuto de Dios**
+*Villavicencio, Colombia*
 
 
-## **Electrónica Básica**
+*Feb 2023 – Jun 2026*
 
-*Jan 2022*
+*Título de pregrado* *in* *Tecnología en Desarrollo de Software*
 
+- Graduado Cum Laude con un promedio (GPA) de 4.62 / 5.0, obteniendo una beca automática de mérito para posgrado por excelencia académica.
 
+- Destacada participación en el encuentro RedColSi 2026, presentando la ponencia de investigación sobre 'UNIMINUTO Riego PWA' y su impacto en la agricultura sostenible mediante la integración de IoT.
 
-## **Seguridad en Riesgo Eléctrico**
+- Galardonado con Beca de Honor (2023-2024) y Premio a la Excelencia Académica (2024) por obtener el promedio más alto del programa.
 
-*Jan 2022*
-
-
-
-## **Curso de Liderazgo**
-
-*Jan 2020*
+- Cursos relevantes: Computación en la Nube, Big Data, Estructuras de Datos, Metodologías Ágiles, Bases de Datos.
 
 
 
-# Otros Datos De Interés
+# Certificaciones
+## **Building GenAI Applications, CRUD Operations, and Relational to Document Model**
 
-- Idiomas: Español (Nativo 100\%), Inglés (Avanzado C1 - Duolingo 130\/160, EF SET 68\/100)
+*2025*
 
-- Tecnologías de Desarrollo: Python (Django, Flask), JavaScript (React, Next.js, Node.js), Java, C++, HTML5, CSS, SQL (PostgreSQL, MySQL), NoSQL, Docker, AWS, Firebase, Flutter, Dart.
 
-- Herramientas: Visual Studio Code, IntelliJ, Arduino IDE, Git, Render, Vercel, Docker, MongoDB Compass, XAMPP, Linux Bash.
-
-- Software Complementario: Photoshop, Filmora, FL Studio.

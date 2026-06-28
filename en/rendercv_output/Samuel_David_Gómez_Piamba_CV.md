@@ -2,101 +2,54 @@
 
 - Phone: +57 314 6398837
 - Email: [sgdotdev@gmail.com](mailto:sgdotdev@gmail.com)
-- Location: Tampere, Finland (Starting Jan 2026) | Villavicencio, Colombia
-- LinkedIn: [Samuel Gómez](https://linkedin.com/in/Samuel Gómez)
-- GitHub: [sadago-dev](https://github.com/sadago-dev)
+- Location: Fusagasugá, Colombia
+- LinkedIn: [samuel-gomez-piamba](https://linkedin.com/in/samuel-gomez-piamba)
+- GitHub: [SaDaGoPia](https://github.com/SaDaGoPia)
 
 
-# Profile
+# Summary
+Bilingual Full Stack Developer with experience in cloud architectures (AWS), modern web development, and IoT integrations. Proven track record in designing scalable systems using React, Node.js, and Python, coupled with hands-on expertise in Linux environments, Bash scripting, and containerization. Focused on creating efficient, creative solutions, automating deployments, and applying Agile methodologies.
 
-(i) Final-year student in Software Development Technology at Corporación Universitaria Minuto de Dios and International Exchange Scholar at #strong[Tampere University of Applied Sciences (TAMK), Finland]. Academic and practical experience in software architecture, database management, and Cloud application development.
+# Technologies and Tools
+**Development Technologies:** Python (Django, Flask), JavaScript (React, Next.js, Node.js), Java, C++, Dart (Flutter)
 
-(ii) Successful execution and delivery of R&D&I projects focused on agricultural automation, achieving the design, deployment, and functional delivery of IoT monitoring and irrigation control systems for research purposes.
+**Infrastructure & Cloud:** AWS, Firebase, Docker, OpenStack, Linux (Bash Scripting), Reverse Proxies
 
-(iii) Professional focus on Modern Full Stack Development, Cloud Architecture (AWS \/ Firebase), and Cross-platform Mobile Development (Flutter), applying Agile methodologies and technical leadership in collaborative teams.
+**Databases & Tools:** PostgreSQL, MySQL, MongoDB, Git, Render, Vercel, Visual Studio Code
 
-(iv) Strong competencies in Full Stack Web Development, orchestrating dynamic interfaces with #strong[React] and scalable backend architectures based on #strong[Python (Django\/Flask)]. Proficient in complementary languages such as Java and C++, along with SQL (PostgreSQL, MySQL) and NoSQL (MongoDB) database administration. Version control with Git and deployment in Linux Bash environments.
-
-(v) Strengths in analytical thinking, creative problem-solving, and a continuous focus on technological excellence and improvement.
-
-# Education
-
-## **Tampere University of Applied Sciences (TAMK)***Tampere, Finland*
-
-*Jan 2026 – May 2026*
-
-*Movemos tu Mundo Scholarship Recipient* *in* *International Academic Exchange (Software Engineering)*
-
-- Awarded the Movemos tu Mundo Scholarship for academic excellence and international projection.
-
-
-
-## **Corporación Universitaria Minuto de Dios***Villavicencio, Colombia*
-
-*Feb 2023 – present*
-
-*Undergraduate Degree (Final Semester)* *in* *Software Development Technology*
-
-- #strong[Relevant Coursework:] Cloud Computing, Development Frameworks, Big Data, Mobile Applications, Data Structures, Agile Methodologies, Databases.
-
-- #strong[GPA:] Outstanding (Consecutive Honor Scholarship recipient).
-
-
-
-## **Institución José María Córdoba***Guamal, Meta, Colombia*
-
-*Jan 2021*
-
-*Graduated* *in* *High School Diploma*
-
-
-
-# Academic Projects & Achievements
-
-## **Successful Execution & Delivery**
-
-*Jan 2025*
-
-*Research Project*
-
-- Development of an application for remote monitoring and control of irrigation in controlled plantations, led by a Ph.D. in Agronomy.
-
-- The functional system achieved optimization of the irrigation process and operational efficiency for crop behavior research.
-
-- This technological development supports an upcoming academic publication.
-
-
-
-# Awards & Recognitions
-
-- International Mobility Scholarship \"Movemos tu Mundo\": 2025 - Awarded by the Global Affairs Office of UNIMINUTO to finance the exchange in Finland, in recognition of high performance.
-
-- Honor Scholarship: 2023 - 2024 - Awarded for obtaining the highest GPA in the program for two consecutive periods (2023-2 and 2024-1).
-
-- Academic Excellence Award: 2024 - Institutional recognition for achieving the highest average of the entire academic program during the year.
+**Languages:** Spanish (Native), English (Advanced C1 - Duolingo 130/160, EF SET 68/100)
 
 # Experience
-
-## **Software Developer – Research Project**
+## **Software Developer – R&D Project (UNIMINUTO Riego PWA)**
 
 *Villavicencio, Colombia*
 
-*May 2025 – Nov 2025*
+*May 2025 – May 2026*
 
-*Corporación Educativa Minuto de Dios – School of Engineering*
+*Corporación Universitaria Minuto de Dios – College*
 
-- Successful execution and delivery of an integral system (Hardware + Software) for the automation and remote control of agricultural irrigation.
+- Architected and delivered 'UNIMINUTO Riego PWA', an offline-first Progressive Web App using React, Next.js, Python, and PostgreSQL for automated IoT irrigation systems.
 
-- Development of an offline-first #strong[Progressive Web App (PWA)] using #strong[Python, C++, JavaScript (React \/ Next.js), Firebase, and PostgreSQL].
+- Optimized agricultural resource efficiency through real-time remote monitoring, establishing a functional system robust enough to support an upcoming academic publication.
 
-- Project conducted in an academic-scientific environment, focusing on agricultural innovation and resource efficiency.
+- Implemented Agile (Kanban) methodologies for lifecycle management, seamlessly integrating complex hardware components with cloud-based software.
 
-- Application of Agile methodologies (Kanban) for development lifecycle management.
+
+
+# Projects
+## **Cloud Infrastructure & Server Deployment**
+
+*May 2026*
+
+- Configured and deployed scalable server environments using Docker and OpenStack.
+
+- Implemented a reverse proxy and NFS file sharing, optimizing network traffic, improving system security, and ensuring data accessibility.
+
+- Developed and integrated a 'Tip of the Day' (TotD) application to demonstrate seamless containerized deployments in production-like environments.
 
 
 
 # Additional Experience
-
 ## **Tech & Sales Advisor**
 
 *Villavicencio, Colombia*
@@ -105,9 +58,7 @@
 
 *DUG Store*
 
-- Applied consultative sales strategies and persuasion for technological products, developing outstanding verbal communication and negotiation skills.
-
-- Integral customer service management and agile conflict resolution, ensuring user satisfaction through active listening and empathy.
+- Applied consultative sales strategies and resolved conflicts agilely, ensuring high customer satisfaction.
 
 
 
@@ -119,62 +70,44 @@
 
 *Panteras Basketball Club*
 
-- Group leadership and personalized mentorship, applying assertive communication for the effective transmission of technical and tactical instructions.
-
-- Designed development plans focused on emotional intelligence and discipline, boosting individual performance and collaborative work under pressure.
+- Led teams and mentored individuals using assertive communication, enhancing group performance and discipline under pressure.
 
 
 
-# Certifications & Continuous Learning
-
-## **From Relational Model (SQL) to MongoDB’s Document Model**
-
-*Jan 2025*
+# Education
+## **Tampere University of Applied Sciences (TAMK)**
+*Tampere, Finland*
 
 
+*Jan 2026 – June 2026*
 
-## **CRUD Operations in MongoDB**
+*Movemos tu Mundo Scholarship Recipient* *in* *International Academic Exchange (Software Engineering)*
 
-*Jan 2025*
-
-
-
-## **Building GenAI Applications with MongoDB**
-
-*Jan 2025*
+- Awarded the Movemos tu Mundo Scholarship for academic excellence and international projection.
 
 
 
-## **Software Handling for Electronic Circuit Design**
-
-*Jan 2022*
-
+## **Corporación Universitaria Minuto de Dios**
+*Villavicencio, Colombia*
 
 
-## **Basic Electronics**
+*Feb 2023 – June 2026*
 
-*Jan 2022*
+*Undergraduate Degree* *in* *Software Development Technology*
 
+- Graduated **Cum Laude** with a **4.62 / 5.0 GPA**, earning an automatic postgraduate merit scholarship for academic excellence.
 
+- Awarded Honor Scholarship (2023-2024) and Academic Excellence Award (2024) for the highest GPA in the program.
 
-## **Electrical Risk Safety**
+- Aclaimed participation in the 2026 RedColSi conference, presenting a research paper on 'UNIMINUTO Riego PWA' and its impact on sustainable agriculture through IoT integration.
 
-*Jan 2022*
-
-
-
-## **Leadership Course**
-
-*Jan 2020*
+- Relevant Coursework: Cloud Computing, Big Data, Data Structures, Agile Methodologies, Databases.
 
 
 
-# Other Information
+# Certifications
+## **Building GenAI Applications, CRUD Operations, and Relational to Document Model**
 
-- Languages: Spanish (Native 100\%), English (Advanced C1 - Duolingo 130\/160, EF SET 68\/100)
+*2025*
 
-- Development Technologies: Python (Django, Flask), JavaScript (React, Next.js, Node.js), Java, C++, HTML5, CSS, SQL (PostgreSQL, MySQL), NoSQL, Docker, AWS, Firebase, Flutter, Dart.
 
-- Tools: Visual Studio Code, IntelliJ, Arduino IDE, Git, Render, Vercel, Docker, MongoDB Compass, XAMPP, Linux Bash.
-
-- Complementary Software: Photoshop, Filmora, FL Studio.
