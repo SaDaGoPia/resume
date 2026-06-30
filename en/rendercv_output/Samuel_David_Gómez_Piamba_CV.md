@@ -91,7 +91,7 @@ Bilingual Full Stack Developer with experience in cloud architectures (AWS), mod
 *Villavicencio, Colombia*
 
 
-*Feb 2023 – June 2026*
+*Aug 2023 – June 2026*
 
 *Undergraduate Degree* *in* *Software Development Technology*
 

@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 6,
-    day: 28,
+    day: 29,
   ),
 )
 
@@ -229,7 +229,7 @@ Desarrollador Full Stack bilingüe con experiencia en arquitecturas cloud (AWS),
   [
     #emph[Villavicencio, Colombia]
 
-    #emph[Feb 2023 – Jun 2026]
+    #emph[Ago 2023 – Jun 2026]
 
   ],
   main-column-second-row: [

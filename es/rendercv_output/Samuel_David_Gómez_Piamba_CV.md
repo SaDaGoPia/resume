@@ -91,7 +91,7 @@ Desarrollador Full Stack bilingüe con experiencia en arquitecturas cloud (AWS),
 *Villavicencio, Colombia*
 
 
-*Feb 2023 – Jun 2026*
+*Ago 2023 – Jun 2026*
 
 *Título de pregrado* *in* *Tecnología en Desarrollo de Software*
 
